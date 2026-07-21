@@ -300,12 +300,6 @@ LEO GRAPHICS
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
 
 ⭐ If you found this project useful, don't forget to star the repository!
